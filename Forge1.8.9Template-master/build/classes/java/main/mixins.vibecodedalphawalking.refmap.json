@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "com/example/mixin/MixinModelBiped": {
+      "setRotationAngles": "Lnet/minecraft/client/model/ModelBiped;func_78087_a(FFFFFFLnet/minecraft/entity/Entity;)V"
+    },
+    "com/example/mixin/MixinGuiMainMenu": {
+      "initGui": "Lnet/minecraft/client/gui/GuiMainMenu;func_73866_w_()V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/example/mixin/MixinModelBiped": {
+        "setRotationAngles": "Lnet/minecraft/client/model/ModelBiped;func_78087_a(FFFFFFLnet/minecraft/entity/Entity;)V"
+      },
+      "com/example/mixin/MixinGuiMainMenu": {
+        "initGui": "Lnet/minecraft/client/gui/GuiMainMenu;func_73866_w_()V"
+      }
+    }
+  }
+}

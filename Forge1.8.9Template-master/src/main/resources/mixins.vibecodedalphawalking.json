@@ -1,0 +1,10 @@
+{
+  "package": "${basePackage}.mixin",
+  "plugin": "${basePackage}.init.AutoDiscoveryMixinPlugin",
+  "refmap": "mixins.vibecodedalphawalking.refmap.json",
+  "minVersion": "0.7",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "MixinModelBiped"
+  ]
+}

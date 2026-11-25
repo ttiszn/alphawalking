@@ -1,0 +1,6 @@
+v1	named	intermediary
+FIELD	com/example/mixin/MixinModelBiped	Lnet/minecraft/client/model/ModelRenderer;	bipedRightArm	field_178723_h
+FIELD	com/example/mixin/MixinModelBiped	Lnet/minecraft/client/model/ModelRenderer;	bipedLeftArm	field_178724_i
+FIELD	com/example/mixin/MixinModelBiped	I	heldItemRight	field_78120_m
+FIELD	com/example/mixin/MixinModelBiped	I	heldItemLeft	field_78119_l
+FIELD	com/example/mixin/MixinModelBiped	Z	aimedBow	field_78118_o
